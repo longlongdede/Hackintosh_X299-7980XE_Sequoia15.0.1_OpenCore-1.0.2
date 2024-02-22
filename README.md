@@ -1,6 +1,7 @@
 # Hakintoshi-EVGA Dark X299-I9 7980XE-RX580
 ---
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
+
 ![2024-02-22_22-13-49](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/8519602f-d878-4f18-839c-3845bc0d2ae2)
 
 ---
