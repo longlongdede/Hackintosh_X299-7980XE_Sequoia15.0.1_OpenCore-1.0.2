@@ -1,4 +1,4 @@
-# Hackintosh-EVGA Dark X299-I9 7980XE-RX580
+# Hackintosh-EVGA Dark X299-I9 7980XE-RX580（Opencore 1.0.0）
 ---
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
