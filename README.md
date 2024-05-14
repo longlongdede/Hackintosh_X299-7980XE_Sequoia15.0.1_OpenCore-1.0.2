@@ -57,6 +57,8 @@
 ## Enjoy It
 ![2024-02-22_22-11-13](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/95ed92c2-1d35-48ad-9a97-696c1f7ba2e3)
 
+![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/9a99ca0e-f4ff-4a3b-aa05-bca8f647723b)
+
 ![2024-02-22_22-09-25](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/761b7886-547a-4d5c-a438-61502a0ebaed)
 
 ![](https://wqong.oss-cn-hangzhou.aliyuncs.com/test/2024-04-23_06-58-37.png)
