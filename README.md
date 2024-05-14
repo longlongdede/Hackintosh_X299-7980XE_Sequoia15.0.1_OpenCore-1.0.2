@@ -3,9 +3,9 @@
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
 
-| ![2024-02-22_22-13-49](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/8519602f-d878-4f18-839c-3845bc0d2ae2) | ![2024-04-23_06-59-41](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/7ac25a51-8898-4a77-97fe-77206fdc0ca6) | 
-|![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9)
-|---|
+| ![2024-02-22_22-13-49](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/8519602f-d878-4f18-839c-3845bc0d2ae2) | ![2024-04-23_06-59-41](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/7ac25a51-8898-4a77-97fe-77206fdc0ca6) | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9)
+|
+| ---|---|---|
 
 ---
 ## 更新
