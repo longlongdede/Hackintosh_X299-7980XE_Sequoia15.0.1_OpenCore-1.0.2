@@ -3,7 +3,8 @@
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
 
-| ![2024-02-22_22-13-49](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/8519602f-d878-4f18-839c-3845bc0d2ae2) | ![2024-04-23_06-59-41](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/7ac25a51-8898-4a77-97fe-77206fdc0ca6) | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9) |
+| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4)
+ | ![2024-04-23_06-59-41](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/7ac25a51-8898-4a77-97fe-77206fdc0ca6) | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9) |
 | ---|---|---|
 
 ---
@@ -17,6 +18,7 @@
 | 2024-04-22 | Sonoma 14.4.1 | 1.0.0开发版|
 | 2024-05-11 | Sonoma 14.4.1 | 1.0.0|
 | 2024-05-14 | Sonoma 14.5 | 1.0.0|
+| 2024-06-26 | sequoia 15 beta2 | 1.0.0|
 
 ---
 ## 硬件配置
