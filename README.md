@@ -3,9 +3,10 @@
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
 
-| Sequoia 15.0 beta2                                           | Sonoma 14.4.1                                                | Sonoma 14.5                                                  |
+| Sequoia 15.0 beta2                                           |Sequoia 15.0(24A335)                                                 | Sonoma 14.5                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) | ![2024-04-23_06-59-41](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/7ac25a51-8898-4a77-97fe-77206fdc0ca6) | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9) |
+| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) |![截屏2024-09-24 09 22 44](https://github.com/user-attachments/assets/2384d92f-8342-4ef5-b6fa-8c9c51826e4c)
+ | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9) |
 
 ---
 ## 更新
@@ -19,6 +20,8 @@
 | 2024-05-11 | Sonoma 14.4.1 | 1.0.0|
 | 2024-05-14 | Sonoma 14.5 | 1.0.0|
 | 2024-06-26 | sequoia 15 beta2 | 1.0.0|
+| 2024-09-24 | sequoia 15 正式版 | 1.0. 1|
+
 
 ---
 ## 硬件配置
@@ -50,11 +53,9 @@
 - 传感器工作正常，CPU温度、睿频，硬盘信息、温度，风扇转速正常
 - USB2.0和USB3.0速度正常，TYPE-C速度正常。
 - 双口有线网卡正常
-- AX200无线网卡正常，蓝牙正常
+- AX210无线网卡和蓝牙不能驱动
 - 睡眠正常，唤醒正常。
 - 隔空投送可以搜到设备，但是不能发送。其他设备搜不到本机。
-- 增加板载AX210网卡，大多数情况下不能驱动，偶尔可以。
-
 ---
 ## Enjoy It
 ![2024-02-22_22-11-13](https://github.com/longlongdede/Hakintoshi-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/95ed92c2-1d35-48ad-9a97-696c1f7ba2e3)
