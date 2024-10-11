@@ -5,7 +5,7 @@
 
 | Sequoia 15.0 beta2                                           |Sequoia 15.0(24A335)                                                 | Sequoia 15.0.1(24A348)                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) |![截屏2024-09-24 09 22 44](https://github.com/user-attachments/assets/2384d92f-8342-4ef5-b6fa-8c9c51826e4c) | ![截屏2024-10-11 21 02 17](https://github.com/user-attachments/assets/0ca6588e-432a-4fef-88ab-1ce90780d28f)
+| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) |![截屏2024-09-24 09 22 44](https://github.com/user-attachments/assets/2384d92f-8342-4ef5-b6fa-8c9c51826e4c) | ![截屏2024-10-11 21 02 17](https://github.com/user-attachments/assets/3a1187b0-b198-4eb2-9b15-0e4bad5e9f2a)
  |
 
 ---
