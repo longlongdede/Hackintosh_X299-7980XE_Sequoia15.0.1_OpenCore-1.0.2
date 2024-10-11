@@ -1,4 +1,4 @@
-# Hackintosh-EVGA Dark X299-I9 7980XE-RX580｜Sequoia15.0（Opencore 1.0.1）
+# Hackintosh-EVGA Dark X299-I9 7980XE-RX580｜Sequoia15.0.1（Opencore 1.0.2）
 ---
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
@@ -21,7 +21,7 @@
 | 2024-05-14 | Sonoma 14.5 | 1.0.0|
 | 2024-06-26 | sequoia 15 beta2 | 1.0.0|
 | 2024-09-24 | sequoia 15 正式版 | 1.0. 1|
-| 2024-10-11 | sequoia 15.0.1 正式版 | 1.0. 2|
+| 2024-10-11 | sequoia 15.0.1 正式版 | 1.0.2|
 
 
 ---
