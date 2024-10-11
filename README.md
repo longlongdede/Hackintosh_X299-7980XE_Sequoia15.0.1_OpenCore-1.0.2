@@ -3,9 +3,10 @@
 这是一个EVGA Dark X299主板+7980XE的OC黑苹果配置文件。
 
 
-| Sequoia 15.0 beta2                                           |Sequoia 15.0(24A335)                                                 | Sonoma 14.5                                                  |
+| Sequoia 15.0 beta2                                           |Sequoia 15.0(24A335)                                                 | Sequoia 15.0.1(24A348)                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) |![截屏2024-09-24 09 22 44](https://github.com/user-attachments/assets/2384d92f-8342-4ef5-b6fa-8c9c51826e4c) | ![截屏2024-05-14 09 50 29](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/c19642ae-a6e8-4dae-b6c6-dc776e4c1da9) |
+| ![截屏2024-06-26 18 33 23](https://github.com/longlongdede/Hackintosh-EVGA-Dark-X299-I9-7980XE-RX580/assets/63046146/d3d24267-6bb2-48b9-b628-1c9b26234be4) |![截屏2024-09-24 09 22 44](https://github.com/user-attachments/assets/2384d92f-8342-4ef5-b6fa-8c9c51826e4c) | ![截屏2024-10-11 21 02 17](https://github.com/user-attachments/assets/0ca6588e-432a-4fef-88ab-1ce90780d28f)
+ |
 
 ---
 ## 更新
@@ -20,6 +21,7 @@
 | 2024-05-14 | Sonoma 14.5 | 1.0.0|
 | 2024-06-26 | sequoia 15 beta2 | 1.0.0|
 | 2024-09-24 | sequoia 15 正式版 | 1.0. 1|
+| 2024-10-11 | sequoia 15.0.1 正式版 | 1.0. 2|
 
 
 ---
